@@ -106,3 +106,5 @@ This project is licensed under the MIT License – free to use, modify, and shar
 
 Developed by **Yu Tse Wu**  
 GitHub: [@Yu-Tse](https://github.com/Yu-Tse)
+---
+

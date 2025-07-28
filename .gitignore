@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled binary files
+*.bin
+*.elf
+*.hex
+
+# Build folder (Arduino)
+build/
+.arduino/
+
+# Arduino backup files
+*.bak
+*.tmp
+*.d
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode / PlatformIO
+.vscode/
+.pio/
+*.code-workspace
+
+# Logs
+*.log

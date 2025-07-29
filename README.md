@@ -1,19 +1,3 @@
-你這份 `README.md` 已經非常完整、清楚且專業！我幫你微調以下幾點，讓整體更符合 GitHub markdown 渲染效果：
-
----
-
-### ✅ 修改建議一覽（主要改善格式）
-
-1. **開頭那段 `# esp32 battery monitor charging` 和 `---` 不需要包在 markdown 區塊內**，這會讓整個 README 看起來像被關在灰色框中。
-2. **程式碼區塊內的 `_` 不需要加反斜線 `\` 逃脫**。
-3. **統一資料夾結構內縮格式**（原本 `|      └──` 改為正確樣式）
-4. **補上 `language` 語法提示**（例如用 ` ```bash` 或 ` ```plaintext` 而非單純 \`\`\`）
-
----
-
-### ✅ 最佳化後的 README.md（可直接貼上 GitHub）
-
-````markdown
 # 🔋 ESP32 Battery Voltage and Charging Monitor
 
 This project uses an **ESP32** to monitor a Li-ion battery's voltage and charging current in real-time. It reads analog values through voltage divider and current sense resistors, dynamically adjusts charging via PWM, and reports results through the **Serial Monitor**.
@@ -105,6 +89,11 @@ esp32-battery-monitor/
 This project is licensed under the MIT License – free to use, modify, and share.
 
 ---
+
+## 🙋‍♂️ Author
+
+**Yu-Tse Wu** (吳雨澤)  
+*Master’s Student at the Institute of Innovation and Semiconductor Manufacturing, National Sun Yat-sen University*
 
 ## 👤 Author
 
